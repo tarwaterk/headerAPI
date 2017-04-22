@@ -1,0 +1,19 @@
+{
+  "name": "headerapi",
+  "version": "1.0.0",
+  "description": "api to read header information and return to user",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarwaterk/headerAPI.git"
+  },
+  "author": "Kevin Tarwater",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarwaterk/headerAPI/issues"
+  },
+  "homepage": "https://github.com/tarwaterk/headerAPI#readme"
+}
