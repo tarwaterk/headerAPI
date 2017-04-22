@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "api to read header information and return to user",
   "main": "index.js",
+  "engines": {
+    "node": "^4.5.0"
+  },
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/tarwaterk/headerAPI/issues"
   },
-  "homepage": "https://github.com/tarwaterk/headerAPI#readme"
+  "homepage": "https://github.com/tarwaterk/headerAPI#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
